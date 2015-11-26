@@ -1,0 +1,46 @@
+
+    body {
+        background-color: #f0f0f2;
+        margin: 0;
+        padding: 0;
+        font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        background: transparent url("http://1.bp.blogspot.com/-tS7OfSQvVTA/Te54sDpkCII/AAAAAAAAEU4/tAybujrZjBw/s1600/1d741408-350a-4094-96df-7bedf1966436_1.jpg") no-repeat scroll 0% 0% / cover;
+    }
+	
+	header {
+	background-color: #8B65AF;
+	border-bottom: 4px solid #65AFA2;
+	text-align: center;
+	color: #fff;
+	padding: 20px;
+}
+    #col {
+    color: #4E70AB;
+    font-size: 1.2em;
+    }
+    
+    div {
+        width: 600px;
+        margin: 5em auto;
+        padding: 50px;
+        background-color: #fff;
+        background: transparent url("http://thumbs.dreamstime.com/z/grunge-designs-old-paper-1006811.jpg");
+        background-position:-20px -30px;
+        border-radius: 50px;
+    }
+    a:link, a:visited {
+        color: #38488f;
+        text-decoration: none;
+    }
+    @media (max-width: 700px) {
+        body {
+            background-color: #fff;
+        }
+        div {
+            width: auto;
+            margin: 0 auto;
+            border-radius: 0;
+            padding: 1em;
+        }
+    }
+    
